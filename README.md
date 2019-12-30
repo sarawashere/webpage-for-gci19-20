@@ -2,6 +2,8 @@
 <html>
     <head>
         <title> The City that Never Sleeps </title>
+        <meta http-equiv="content-type" content="text/html; charset-utf-8">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
         <link rel='stylesheet' href="readme.css">
       <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap" rel="stylesheet">
