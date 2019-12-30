@@ -2,7 +2,7 @@
 <html  lang="en">
     <head>
         <title>
-             <p id= "Tittle" >The City that Never Sleeps</p> 
+             <p id= "Title" >The City that Never Sleeps</p> 
         </title>
         <meta charset="utf-8"/>
         <meta name="description" content="Inormative guide to New York City">
