@@ -1,36 +1,22 @@
 #webpage-for-gci19-20
 <html  lang="en">
-    <head>
-        <title>The city that never sleeps</title>
+<head>
         <meta charset="utf-8"/>
         <meta name="description" content="Inormative guide to New York City">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="content-type" content="text/html; charset-utf-8">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" type 
       
- <link type="text/css" rel="stylesheet" href="https://github.com/css" />
- <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap" rel="stylesheet"/>
- 
-<style>
-
-title {
-  font-family: 'Allerta Stencil', sans-serif;
-  font-size : 38px;
-  background-color: lightgray;
-  font-weight: normal;
-  text-decoration: none;
-  border : 4px solid dimgray;
  
   
-} 
-</style>
 </head>
  
  
  <body>
  <p id= "Title" >The City that Never Sleeps</p> 
 
- <h2> The 5 boroughs in NYC</h2>
+
+ <h2 style="color:grey;background-color: black;border : 2px solid goldenrod;" > The 5 boroughs in NYC</h2>
  <ul style="list-style-type:circle;">
   <li>Brooklyn</li>
   <li>Queens</li>
@@ -40,7 +26,7 @@ title {
 </ul>  
       
       
-<h2> Attractions and their locations</h2>
+<h2 style="color:grey;background-color: black;border : 2px solid goldenrod;"> Attractions and their locations</h2>
 <table style="width:100%">
   <tr>
     <th>Link</th>
