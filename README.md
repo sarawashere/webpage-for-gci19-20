@@ -1,9 +1,6 @@
 #webpage-for-gci19-20
 <html  lang="en">
     <head>
-        <title>
-             <p id= "Title" >The City that Never Sleeps</p> 
-        </title>
         <meta charset="utf-8"/>
         <meta name="description" content="Inormative guide to New York City">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,6 +15,8 @@
  
  
  <body>
+ <p id= "Title" >The City that Never Sleeps</p> 
+
  <h2> The 5 boroughs in NYC</h2>
 <ul style="list-style-type:circle;">
   <li>Brooklyn</li>
