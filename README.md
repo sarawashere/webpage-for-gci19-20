@@ -13,7 +13,7 @@
  <link rel='stylesheet' href="css">
  <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap" rel="stylesheet">
  
-            <style>
+  <style>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
@@ -28,9 +28,7 @@ th {
 </head>
  
  
-      <====================BODY===============>
  <body>
-     <==================LIST=================>
  <h2> The 5 boroughs in NYC</h2>
 <ul style="list-style-type:circle;">
   <li>Brooklyn</li>
