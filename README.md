@@ -1,6 +1,7 @@
 #webpage-for-gci19-20
 <html  lang="en">
     <head>
+        <title>The city that never sleeps</title>
         <meta charset="utf-8"/>
         <meta name="description" content="Inormative guide to New York City">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +11,19 @@
  <link type="text/css" rel="stylesheet" href="https://github.com/css" />
  <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap" rel="stylesheet"/>
  
+<style>
 
+title {
+  font-family: 'Allerta Stencil', sans-serif;
+  font-size : 38px;
+  background-color: lightgray;
+  font-weight: normal;
+  text-decoration: none;
+  border : 4px solid dimgray;
+ 
+  
+} 
+</style>
 </head>
  
  
