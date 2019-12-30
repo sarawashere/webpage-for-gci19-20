@@ -39,7 +39,6 @@ th {
 </ul>  
       
       
-     ===============TABLE================
 <h2> Attractions and their locations</h2>
 <table style="width:100%">
   <tr>
