@@ -13,7 +13,7 @@
  <link type = 'text/css' type="text/css" href="https://github.com/sarawashere/webpage-for-gci19-20/edit/master/css">
  <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap" rel="stylesheet">
  
-    <style>
+<style>
         table, th, td {
         border: 1px solid black;
         border-collapse: collapse;
