@@ -7,7 +7,7 @@
         <meta http-equiv="content-type" content="text/html; charset-utf-8">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" type 
       
- <link type = "text/css" type="text/css" href="https://github.com/css">
+ <link type = "text/css" rel="stylesheet" href="https://github.com/css">
  <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap" rel="stylesheet">
  
 
