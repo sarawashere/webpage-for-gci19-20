@@ -1,9 +1,10 @@
 # webpage-for-gci19-20
-<html>
+<html  lang="en">
     <head>
         <title>
              <p id= "Tittle" >The City that Never Sleeps</p> 
         </title>
+        <meta charset="utf-8"/>
         <meta name="description" content="Inormative guide to New York City">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="content-type" content="text/html; charset-utf-8">
