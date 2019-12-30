@@ -13,16 +13,16 @@
  <link rel='stylesheet' href="css">
  <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap" rel="stylesheet">
  
-  <style>
+<style>
 table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
+border: 1px solid black;
+border-collapse: collapse;
 }
 th, td {
-  padding: 5px;
+padding: 5px;
 }
 th {
-  text-align: left;
+text-align: left;
 }
 </style>
 </head>
