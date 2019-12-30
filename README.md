@@ -75,11 +75,11 @@ th {
     <td>
       
   <a href = "https://www.esbnyc.com" target="_blank">
-      <img src = "  Screen Shot 2019-12-30 at 2.23.03 PM.png">
+      <img src = "Screen Shot 2019-12-30 at 2.23.03 PM.png">
     </a>
       
   </td>
-    <td>Empire State building \</td>
+    <td>Empire State building </td>
     <td>Manhattan</td>
   </tr>
 </table>
