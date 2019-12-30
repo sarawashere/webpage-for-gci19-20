@@ -1,17 +1,18 @@
 # webpage-for-gci19-20
 <html>
     <head>
-        <title> The City that Never Sleeps </title>
+        <title>
+             <p id= "Tittle" >The City that Never Sleeps</p> 
+        </title>
+        <meta name="description" content="Inormative guide to New York City">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="content-type" content="text/html; charset-utf-8">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-        <link rel='stylesheet' href="readme.css">
-      <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap" rel="stylesheet">
-      <style>
+      
+ <link rel='stylesheet' href="readme.css">
+ <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap" rel="stylesheet">
+ 
+            <style>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
@@ -89,7 +90,7 @@ th {
       <p id="Basketball" > I love to play basketball </p>
       <p id= "School" > In school I play as a varsity point guard </p>
       <p id= "Young" > I have been playing it since I was 5 years old. </p>
-      <p id= "Swimming" > I also like to swim at Princeton </p> 
+     
       
       
       
